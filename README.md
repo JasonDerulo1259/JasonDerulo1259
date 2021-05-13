@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm JasonDerulo
+#### I'm an amateur coder, trying to figure out how to do shit
+![I'm an amateur coder, trying to figure out how to do shit](https://i.imgur.com/170y1dB.gif)
 
-<!--
-**JasonDerulo1259/JasonDerulo1259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love coding as it's really relaxing and intriguing trying to figure out what does what, and how things can be made and manipulated.
 
-Here are some ideas to get you started:
+Skills: Python, C++ / C#, Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Sexeca](https://github.com/JasonDerulo1259/Sexeca-FreeVersion) 
+- 🌱 I’m currently learning C++ 
+- 📫 How to reach me: [Email Me!](mailto:melopelo1259@gmail.com) 
+- 😄 Pronouns: He/They 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JasonDerulo1259)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonDerulo1259&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/JasonDerulo1259)  
