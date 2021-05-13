@@ -1,5 +1,5 @@
-### Hi there 👋, I'm JasonDerulo
-#### I'm an amateur coder, trying to figure out how to do shit
+# Hi there 👋, I'm JasonDerulo
+## I'm an amateur coder, trying to figure out how to do shit
 ![I'm an amateur coder, trying to figure out how to do shit](https://i.imgur.com/170y1dB.gif)
 
 I love coding as it's really relaxing and intriguing trying to figure out what does what, and how things can be made and manipulated.
