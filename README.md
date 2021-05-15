@@ -17,3 +17,7 @@ Skills: Python, C++ / C#, Javascript
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonDerulo1259&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/JasonDerulo1259)  
+
+###### Important!
+##### Legality:
+If I make something that can be used maliciously, it has been made for educational purposes and proof of concepts. I do not promote the usage of my tools, I do not take responsability on the bad usage of this tool.
