@@ -18,6 +18,6 @@ Skills: Python, C++ / C#, Javascript
 
 ![Profile views](https://gpvc.arturio.dev/JasonDerulo1259)  
 
-###### Important!
-##### Legality:
+### Important!
+#### Legality:
 If I make something that can be used maliciously, it has been made for educational purposes and proof of concepts. I do not promote the usage of my tools, I do not take responsability on the bad usage of this tool.
