@@ -9,7 +9,7 @@ Skills: Python, C++ / C#, Javascript
 - 🔭 I’m currently working on [Sexeca](https://github.com/JasonDerulo1259/Sexeca-FreeVersion) 
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: [Email Me!](mailto:melopelo1259@gmail.com) 
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: Any
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JasonDerulo1259)  
