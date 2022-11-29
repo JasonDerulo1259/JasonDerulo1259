@@ -1,15 +1,14 @@
 # Hi there 👋, I'm JasonDerulo
-## I'm an amateur coder, trying to figure out how to do shit
-![I'm an amateur coder, trying to figure out how to do shit](https://i.imgur.com/170y1dB.gif)
+## I'm an amateur coder, trying to figure out how to do stuff
+![I'm an amateur coder, trying to figure out how to do stuff](https://i.imgur.com/170y1dB.gif)
 
 I love coding as it's really relaxing and intriguing trying to figure out what does what, and how things can be made and manipulated.
 
 Skills: Python, C++ / C#, Javascript
 
-- 🔭 I’m currently working on [Sexeca](https://github.com/JasonDerulo1259/Sexeca-FreeVersion) 
 - 🌱 I’m currently learning C++ 
-- 📫 How to reach me: [Email Me!](mailto:melopelo1259@gmail.com) 
-- 😄 Pronouns: She/Her They/Them
+- 📫 How to reach me: [Email Me!](mailto:michaelGOVgordon@gmail.com) 
+- 😄 Pronouns: Any! Including neos.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JasonDerulo1259)  
