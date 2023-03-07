@@ -10,4 +10,4 @@ Check out my repos! :D
 ### Other info:
 I use any and all pronouns. This includes neopronouns.
 
-You can contact message me on github, but for more serious things, email me at michaelGOVgordon@gmail.com
+You can message me on github, but for more serious things, email me at michaelGOVgordon@gmail.com
